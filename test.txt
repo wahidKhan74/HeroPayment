@@ -1,1 +1,3 @@
-Add new changes by tester B
+This is new changes in dev branch
+This is new changes in dev branch
+This is new changes in dev branch
